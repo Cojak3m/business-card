@@ -19,7 +19,7 @@ body {
     background-color: #1b263b;
     color: #e0e1dd;
     animation-name: card-out;
-    animation-duration: 4s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-fill-mode: backwards;
 }
@@ -30,7 +30,7 @@ body {
 
 .card:hover {
     animation-name: card-over;
-    animation-duration: 4s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-fill-mode: forwards;
 }
